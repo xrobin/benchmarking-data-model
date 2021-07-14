@@ -4,7 +4,7 @@
   "title": "local Difference Distance Test (lDDT)",
   "description": "The local Difference Distance Test (lDDT) is a superposition-free score which evaluates local distance differences in a model compared to a reference structure.",
   "metrics_contact_ids": [
-    "Torsten.Schwede"
+    "torsten.schwede"
   ],
   "formal_definition": "The Local Distance Difference Test (lDDT) is a superposition-free score that evaluates local distance differences of all atoms in a model, including validation of stereochemical plausibility.",
   "references": [

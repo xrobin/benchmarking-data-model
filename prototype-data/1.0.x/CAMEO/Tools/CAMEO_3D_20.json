@@ -5,7 +5,7 @@
   "name": "SWISS-MODEL",
   "is_automated": true,
   "tool_contact_ids": [
-    "Torsten.Schwede"
+    "torsten.schwede"
   ],
   "status": "online",
   "activation": "2013-07-05T00:00:00+02:00",
